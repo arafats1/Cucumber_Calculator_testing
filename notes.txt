@@ -1,0 +1,13 @@
+- Integrate Cucumber with Javascript
+- Format outputs
+-Before and after hooks
+
+
+
+-Install Cucumber as a dev dependence
+- Change the test script to run Cucumber
+-Write a test feature
+-Write custom steps
+-Instal cucumber pretty as a dev dependence for formatting
+-Include hooks to run something before and after
+    -From github link
