@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "cucumber-js -f @cucumber/pretty-formatter features"
+    "test": "cucumber-js -f @cucumber/pretty-formatter features/calc.feature"
   },
   "author": "",
   "license": "ISC",
@@ -19,6 +19,7 @@
     "@cucumber/pretty-formatter": "^1.0.0-alpha.2",
     "chai": "^4.3.6",
     "chromedriver": "^102.0.0",
+    "cucumber-html-reporter": "^5.5.0",
     "mocha": "^10.0.0",
     "nodemon": "^2.0.16"
   }
